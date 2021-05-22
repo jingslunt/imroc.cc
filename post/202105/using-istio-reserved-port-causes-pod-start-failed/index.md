@@ -10,7 +10,7 @@ lastmod: "2021-05-22"
 # Show this page in the Featured widget?
 featured: false
 
-summary: "记一次使用 istio 时 Service 用到 istio 保留端口导致 sidecar 启动失败的问题排查"
+summary: "记一次使用 istio 时 service 用到 istio 保留端口导致 sidecar 启动失败的问题排查"
 
 authors:
 - admin
