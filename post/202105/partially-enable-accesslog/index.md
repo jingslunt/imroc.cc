@@ -20,6 +20,8 @@ tags:
 
 ---
 
+> 本文摘自 [istio 学习笔记](https://imroc.cc/istio/trick/partially-enable-accesslog/)
+
 ## 背景
 
 在生产环境中，有时我们不想全局启用 accesslog，只想为部分 namespace 或 workload 启用 accesslog，而 istio 对 accesslog 的配置是全局的，如何只为部分数据面启用 accesslog 呢？下面介绍具体操作方法。
