@@ -2,7 +2,7 @@
 title: "kubernetes 问题排查: 误删 rancher 的 namespace 导致 node 被清空"
 
 # Date published
-date: "2021-05-223"
+date: "2021-05-23"
 
 # Date updated
 lastmod: "2021-05-23"
