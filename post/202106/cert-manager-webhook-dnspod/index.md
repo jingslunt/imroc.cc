@@ -19,7 +19,7 @@ tags:
 - kubernetes
 ---
 
-> 本文摘自 [kubernetes 学习笔记](https://imroc.cc/k8s/trick/kubecm/)
+> 本文摘自 [kubernetes 学习笔记](https://imroc.cc/k8s/trick/cert-manager-webhook-dnspod/)
 
 ## 概述
 
